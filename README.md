@@ -10,10 +10,6 @@ This project showcases a simple login form created using the fundamental technol
 - **CSS**: Styling to make the form visually appealing and responsive.
 - **JavaScript**: Basic client-side validation to ensure user inputs meet certain criteria.
 
-## Demo
-
-You can view a live demo of the login form [here](#).
-
 ## Installation
 
 To run this project locally, follow these steps:
